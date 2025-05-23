@@ -246,7 +246,7 @@ I’m an aspiring full-stack developer with a passion for both web and game deve
 
 <h20>Tuckman’s Model Common Themes Extraction using NLP Text Classification <small>(Dec 2024)</small></h20>
 <ul>
-  <li><strong>Roles:</strong> Data Specialist, Model Specialist, Evaluation Specialist, Full-Stack Developer</li>
+  <li><strong>Roles:</strong> Data Specialist, Model Specialist, Evaluation Specialist</li>
   <li>
     <strong>Tech:</strong>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
